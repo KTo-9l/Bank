@@ -6,7 +6,7 @@
 Соответственно, для выполнения всей работы были импортированы следующие библиотеки: pandas, seaborn, matplotlib.pyplot, plotly.express, numpy, iqr, StandardScaler, KMeans, train_test_split, StandardScaler, LabelEncoder, LogisticRegression, SVC, datasets, classification_report, DecisionTreeClassifier, graph_from_dot_data, export_graphviz, KNeighborsClassifier.
 
 ## Ссылки
-* Ссылка на датасет: [Data](/sources/data.csv)
+* Ссылка на датасет: [Dataset](/sources/data.csv)
 * Ссылка на Python Notebook: [Notebook](/sources/kyrs.ipynb)
 * Ссылка на видео: [Video]()
 * Ссылка на презентацию: [Presentation]()
