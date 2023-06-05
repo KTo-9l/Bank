@@ -9,4 +9,4 @@
 * Ссылка на датасет: [Dataset](/sources/data.csv)
 * Ссылка на Python Notebook: [Notebook](/sources/kyrs.ipynb)
 * Ссылка на видео: [Video]()
-* Ссылка на презентацию: [Presentation]()
+* Ссылка на презентацию: [Presentation](/sources/pres.pptx)
