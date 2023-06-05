@@ -8,5 +8,5 @@
 ## Ссылки
 * Ссылка на датасет: [Dataset](/sources/data.csv)
 * Ссылка на Python Notebook: [Notebook](/sources/kyrs.ipynb)
-* Ссылка на видео: [Video](https://disk.yandex.ru/d/9G5Xs-eiCvrtCQ)
+* Ссылка на видео: [Video]([https://disk.yandex.ru/d/9G5Xs-eiCvrtCQ](https://disk.yandex.ru/d/9G5Xs-eiCvrtCQ/2023-06-05%2005-02-21.mkv))
 * Ссылка на презентацию: [Presentation](/sources/pres.pptx)
