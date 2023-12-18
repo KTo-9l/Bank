@@ -14,4 +14,4 @@
 
 made by:
 * [KTo-9l](https://github.com/KTo-9l)
-* [](/sources/data.csv)
+* [Nizbor](https://github.com/Nizbor)
